@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Performance Doctor"
+  short_description: "Read-only Codex log and Git diagnostics"
+  default_prompt: "Use $codex-performance-doctor to inspect Codex log growth for 15 seconds and check the current workspace's Git metadata without modifying or deleting files."
